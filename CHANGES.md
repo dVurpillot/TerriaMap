@@ -9,6 +9,9 @@ Change Log
 * Add ecosystem_upgrade with a comprehensive list of command lines server side
 * Add "ADD_server_auth_doc" folder which contains scripts related to server and auth (including devserver and ecosystem files)
 * Add wwwroot/init = Catalogues Heritages and heritages_V2
+* Modify  wwwroot/config.json
+
+* /!\ Pushed lib/xxx with all subfolders from root TerriaMap and index.js in order to have customs BaseMaps 
 _____________________________________________________________________________
 
 ### 2017-XX-XX
