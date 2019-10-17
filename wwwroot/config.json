@@ -1,7 +1,7 @@
 {
     /* Names of init files (in wwwroot/init), without the .json extension, to load by default */
     initializationUrls: [
-        "terria"
+        "heritages_v2"
     ],
     parameters: {
         googleUrlShortenerKey: null,
@@ -9,8 +9,8 @@
         googleAnalyticsOptions: null,
         /* Text that appears at the bottom of the map */
         disclaimer: {
-            text: "Disclaimer: This map must not be used for navigation or precise spatial analysis",
-            url: ""
+          text: "Heritage(S) GeoCatalogue (Alpha 0.1)",
+          url: "https://www.intelligencedespatrimoines.fr"
         },
         /*
         // Text that will be added to any pages printed from your site.
@@ -19,7 +19,7 @@
             url: "#"
         },
         */
-         
+
         // Pop-up disclaimer that will be shown at the start
         // The text of the disclaimer is in lib/Views/GlobalDisclaimer.html
         // globalDisclaimer: {
@@ -32,34 +32,38 @@
         //     //devHostRegex: "\\b(staging|preview|test|dev)\\.",
         //     enableOnLocalhost: true // If false, don't show this when running on localhost
         // },
-        
+
         /*
         developerAttribution: {
             text: "Your organisation",
             link: "http://www.example.com"
         },*/
         // This is used in various text messages. You should also set <title> in index.html
-        appName: "Terria Map",
+        appName: "Heritage(S) GeoCatalogue",
 
         // See comments in lib/Views/global.scss for further information about customising colors, logos, fonts etc.
         brandBarElements: [
             "",
-            "<a target=\"_blank\" href=\"https://terria.io\"><img src=\"images/terria_logo.png\" height=\"52\" title=\"Version: {{version}}\" /></a>",
+            "<a target=\"_blank\" href=\"https://intelligencedespatrimoines.fr\"><img src=\"images/heritages.png\" height=\"52\" title=\"Version: Alpha 0.1\" /></a>",
             ""
         ],
         // Shown when things go wrong.
-        supportEmail: "help@example.com",
+        supportEmail: "damien.vurpillot@univ-tours.fr",
         // You probably shouldn't change this.
         proj4ServiceBaseUrl: "proj4def/",
+        "developerAttribution": {
+        "text": "Intelligence des Patrimoines",
+        "link": "https://intelligencedespatrimoines.fr/"
+         },
         // Or this
-        feedbackUrl: "feedback",
+        feedbackUrl: "damien.vurpillot@univ-tours.fr",
 
         // Default mobile viewer mode when loading the map for the first time on mobile platforms.
         // Options are: "3DTerrain", "3DSmooth", "2D"
         mobileDefaultViewerMode: "2d",
         // Enable experimental features, since its nice to have the bleeding edge.
         // Disable it if things go wrong with the experimental features or your users aren't robust to features which might change or disapear completly.
-        "experimentalFeatures": true,
+        "experimentalFeatures": true
 
         // To override TerriaJS's region mapping file with a local one.
         // regionMappingDefinitionsUrl: "data/regionMapping.json"

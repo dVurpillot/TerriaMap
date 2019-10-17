@@ -1,0 +1,861 @@
+{
+   "corsDomains" : [
+        "localhost",
+    ],
+  "initialCamera": {
+    "west": 2.51587,
+    "south": 48.99103,
+    "east": 6.00403,
+    "north": 45.64477
+  },
+  "homeCamera": {
+    "west": 35.06836,
+    "south": 62.47172,
+    "east": 80.77148,
+    "north": 25.40358
+  },
+  "catalog": [
+    {
+      "name": "Chantiers Interdisciplinaires Thématiques",
+      "type": "group",
+      "description": "[Website](https://intelligencedespatrimoines.fr/chantiers/)  <p>Les Chantiers Interdisciplinaires Thématiques (CIT) représentent les lieux de la pratique de la recherche interdisciplinaire sur des objets patrimoniaux ciblés. Ils se déploient grâce à une programmation scientifique définie et des projets financés qui concourent à sa réalisation. Par la convergence interdisciplinaire, ils produisent de grandes quantités de nouvelles données à haute valeur ajoutée et à fort potentiel de valorisation, qui sont intégrées dans la plateforme numérique de données hétérogènes dédiée aux patrimoines culturels et naturels du Val de Loire.</p><p>Chaque chantier est porté par 1 ou 2 responsable(s) scientifique(s), assisté(s) par un ingénieur coordinateur. Ils ont en charge la structuration du réseau (académique et socio-économique) et l’articulation des projets dans l’objectif d’aboutir à un projet commun de valorisation, rassemblant un maximum de données produites au sein du Chantier.</p>",
+      "items": [
+        {
+          "name": "Chambord-Châteaux",
+          "type": "group",
+		  "description": "[Website](https://intelligencedespatrimoines.fr/chambord-chateaux/)  <p>Le Chantier Chambord-Châteaux ambitionne d’étudier sous un nouveau regard le Domaine national de Chambord, site d’exception du Val de Loire. Élément emblématique du patrimoine naturel et culturel régional, il fait l’objet d’une étude globale, portant sur le château et son espace environnant, en mobilisant et croisant de nombreuses disciplines scientifiques : histoire, archéologie, architecture, biologie, sociologie, géosciences, sociologie, sciences de la gestion, sciences et technologies de l’information et de la communication, etc.</p><p>Depuis 2014, plusieurs unités de recherche de la Région Centre-Val de Loire, soit près d’une centaine de chercheurs, sont mobilisées sur ce chantier pour définir une approche scientifique innovante et donner au patrimoine une nouvelle intelligence. Par la mutualisation des méthodes, des pratiques et des savoir-faire, il permet de développer de nouveaux savoirs et outils de médiation. Pour atteindre cet objectif, il rassemble plusieurs projets interdisciplinaires et complémentaires, financés par des appels régionaux (APR IA et IR), nationaux (CVT Athéna) et d’autres apports (mécénat, investissement en co-production, contrats doctoraux, CIFRE). Les projets contribuent à la collecte et à la production de données, de contenus scientifiques et d’outils d’analyse sur le Domaine national de Chambord et les châteaux du Val de Loire, comme à la définition d’opérations de valorisation des patrimoines culturels et naturels. L’originalité de la démarche est de prendre appui sur des ressources scientifiques solidement établies au sein du Chantier pour proposer de nouveaux services de médiation culturelle et touristique (principalement numériques), comme par exemple la mise en valeur de la Grande Promenade du Domaine national de Chambord. Conçue comme un démonstrateur régional et national, cette dynamique, consacrée au monument et à son environnement, ambitionne de s’étendre à d’autres châteaux du territoire régional, national, voire européen.</p>",
+          "items": [
+					{
+					  "name": "Chambord-Tourismes",
+					  "type": "group",
+					  "description": "[Website]()  <p></p><p></p>",
+					  "items": [
+					  
+					  
+					  ]
+					},
+					{
+					  "name": "Costaud",
+					  "type": "group",
+					  "description": "[Website]()  <p></p><p></p>",
+					  "items": [
+					  
+					  
+					  ]
+					},
+					{
+					  "name": "Diane",
+					  "type": "group",
+					  "description": "[Website]()  <p></p><p></p>",
+					  "items": [
+					  
+					  
+					  ]
+					},
+					{
+					  "name": "Marignan 1515/2015",
+					  "type": "group",
+					  "description": "[Website]()  <p></p><p></p>",
+					  "items": [
+					  
+					  
+					  ]
+					},
+					{
+					  "name": "MUSI2R",
+					  "type": "group",
+					  "description": "[Website]()  <p></p><p></p>",
+					  "items": [
+					  
+					  
+					  ]
+					},
+					{
+					  "name": "NaTour",
+					  "type": "group",
+					  "description": "[Website]()  <p></p><p></p>",
+					  "items": [
+					  
+					  
+					  ]
+					},
+					{
+					  "name": "PROTECTODO",
+					  "type": "group",
+					  "description": "[Website]()  <p></p><p></p>",
+					  "items": [
+					  
+					  
+					  ]
+					},
+					{
+					  "name": "RIHVAGE",
+					  "type": "group",
+					  "description": "[Website]()  <p></p><p></p>",
+					  "items": [
+					  
+					  
+					  ]
+					},
+					{
+					  "name": "SOLIDAR",
+					  "type": "group",
+					  "description": "[Website](https://intelligencedespatrimoines.fr/chambord-chateaux/solidar/)  <p>Cette analyse diachronique de l’occupation du sol à partir de la télédétection LiDAR (Light Detection and Ranging) des forêts domaniales de Chambord, Boulogne, Russy et Blois souhaite :</p><p>• Apporter des connaissances sur l’histoire des paysages et des peuplements ;</p><p>• Étudier l’impact de l’utilisation ancienne des sols sur l’état et le fonctionnement des écosystèmes actuels par le croisement de sources archéologiques, écrites, géomorphologiques et écologiques.</p><p>L’analyse diachronique de ces structures nous permettra de mieux comprendre les transformations du paysage dans la longue durée par l’apport de connaissances sur l’histoire des paysages et des peuplements, l’impact de l’utilisation ancienne des sols sur l’état du fonctionnement des écosystèmes forestiers actuels, les interactions entre l’hydrosystème et l’implantation du domaine de Chambord.</p>",
+					  "items": [
+					  	{
+						  "name": "Emprise des dalles Lidar du projet SOLIDAR.",
+						  "type": "geojson",
+						  "url": "datasets/internes/solidar/solidar_lidar2015.geojson",
+						  "description": "Emprise des dalles Lidar du projet SOLIDAR.",
+						  "abstract": "Emprise des dalles Lidar du projet SOLIDAR."
+						},
+						{
+						  "name": "Habitats reconnus dans le cadre du projet SOLIDAR.",
+						  "type": "geojson",
+						  "url": "datasets/internes/solidar/solidar_habitat.geojson",
+						  "description": "Habitats reconnus dans le cadre du projet SOLIDAR.",
+						  "abstract": "Habitats reconnus dans le cadre du projet SOLIDAR.",
+						  "hideSource": "true"
+						},
+						{
+						  "name": "Parcellaire reconnu dans le cadre du projet SOLIDAR (polygones)",
+						  "type": "geojson",
+						  "url": "datasets/internes/solidar/solidar_parcellaire.geojson",
+						  "description": "Parcellaire reconnu dans le cadre du projet SOLIDAR (polygones)",
+						  "abstract": "Parcellaire reconnu dans le cadre du projet SOLIDAR (polygones)",
+						  "hideSource": "true"
+						},
+						{
+						  "name": "Parcellaire reconnu dans le cadre du projet SOLIDAR (polylines)",
+						  "type": "geojson",
+						  "url": "datasets/internes/solidar/solidar_parcellaire_dissolve.geojson",
+						  "description": "Parcellaire reconnu dans le cadre du projet SOLIDAR (polylines)",
+						  "abstract": "Parcellaire reconnu dans le cadre du projet SOLIDAR (polylines)",
+						  "hideSource": "true",
+						  "style": {
+							"stroke": "black"
+							}
+						},
+						{
+						  "name": "Talus reconnue dans le cadre du projet SOLIDAR.",
+						  "type": "geojson",
+						  "url": "datasets/internes/solidar/solidar_talus.geojson",
+						  "description": "Talus reconnue dans le cadre du projet SOLIDAR.",
+						  "abstract": "Talus reconnue dans le cadre du projet SOLIDAR.",
+						  "hideSource": "true",
+						  "style": {
+							"stroke": "black"
+							}
+						},
+						{
+						  "name": "Trame reconnue dans le cadre du projet SOLIDAR.",
+						  "type": "geojson",
+						  "url": "datasets/internes/solidar/solidar_trame.geojson",
+						  "description": "Trame reconnue dans le cadre du projet SOLIDAR.",
+						  "abstract": "Trame reconnue dans le cadre du projet SOLIDAR.",
+						  "hideSource": "true",
+						  "style": {
+							"stroke": "black"
+							}
+						}						
+					  ]
+					},
+					{
+					  "name": "VALMOD",
+					  "type": "group",
+					  "description": "[Website](https://intelligencedespatrimoines.fr/chambord-chateaux/valmod/)  <p>Ce projet vise à la valorisation touristique du château de Chambord à partir de la collecte des données architecturales et historiques et de leur traitement numérique via des supports de diffusion à destination des différents publics.</p><p>Il s’agit de poursuivre l’étude de faisabilité et les premiers travaux de recherche engagés pour passer à une phase de collecte systématique et d’application en travaillant à une valorisation ludo-pédagogique des connaissances rassemblées ou produites.</p><p>Le public pourra ainsi naviguer dans différentes interprétations du Château de Chambord dans un format virtuel 3D représentant différentes époques, jusqu’à l’état actuel et même des propositions d’états futurs, tout en accédant selon le type de public, à des versions plus ou moins vulgarisées des diverses sources ayant servi à proposer ces interprétations.</p>",
+					  "items": [
+					  	{
+						  "name": "Emprise des données scannées de VALMOD.",
+						  "type": "geojson",
+						  "url": "datasets/internes/valmod/valmod_scanner.geojson",
+						  "description": "Emprise des données scannées de VALMOD.",
+						  "abstract": "Emprise des données scannées de VALMOD."
+						}			  
+					  ]
+					}						
+		    ]
+		},
+		{
+          "name": "Vigne & Vin",
+          "type": "group",
+		  "description": "[Website](https://intelligencedespatrimoines.fr/vignes-vins/)  <p>Le Chantier Vigne & Vin est un réseau de chercheurs académiques de tout horizon, de professionnels variés, et de structures de formation techniques dont les activités et les savoir-faire pourraient s’avérer, par leur mise en commun, être force de propositions pour des programmes de recherche et des applications innovantes. Les objectifs du chantier sont d’identifier les enjeux fondamentaux du monde viticole actuel et à venir, dans un contexte de mutation profonde des conditions de maintien et d’évolution de ce secteur (changement climatique, urbanisation des vignobles, méthode agricole éco-durable, maintien de la biodiversité, cépages rares, concurrence mondiale, vin et santé, vin et culture…). Il s’agit donc de proposer et de coordonner des projets scientifiques de recherche financés et la mise en place de formations originales, pour développer des moyens permettant d’anticiper le vignoble de demain ainsi que la création de nouveaux métiers dans ce domaine.</p><p>L’originalité de ce programme est de l’envisager sous un angle patrimonial. Une première phase, à l’échelle du domaine viticole de la Région Centre-Val de Loire, servira de phase expérimentale afin d’établir une preuve de concept d’outils analytiques nouveaux permettant d’appréhender à la fois la structure, la dynamique, le caractère vivant et biologique du vignoble et du vin, ainsi que l’enjeu économique et sociétal de ce domaine pour en assurer un fonctionnement et une valorisation optimale à l’avenir. La diversité des approches du programme de cette première phase permettra de l’installer très rapidement à l’échelle nationale et européenne.</p>",
+          "items": [
+					{
+					  "name": "ACTISARM",
+					  "type": "group",
+					  "items": []
+					},
+					{
+					  "name": "BioVAL",
+					  "type": "group",
+					  "items": []
+					},
+					{
+					  "name": "BRAVE",
+					  "type": "group",
+					  "items": []
+					},
+					{
+					  "name": "Chêne & Vin",
+					  "type": "group",
+					  "items": []
+					},
+					{
+					  "name": "DIVIN",
+					  "type": "group",
+					  "items": []
+					},
+					{
+					  "name": "Itinera Minora",
+					  "type": "group",
+					  "items": []
+					},
+					{
+					  "name": "PAVITOEN",
+					  "type": "group",
+					  "items": []
+					},
+					{
+					  "name": "SEPage",
+					  "type": "group",
+					  "items": []
+					},
+					{
+					  "name": "VIB",
+					  "type": "group",
+					  "items": []
+					},
+					{
+					  "name": "VIGNE37",
+					  "type": "group",
+					  "items": []
+					},
+					{
+					  "name": "VINODRONE",
+					  "type": "group",
+					  "items": []
+					},
+					{
+					  "name": "VintAss",
+					  "type": "group",
+					  "items": []
+					},
+					{
+					  "name": "VITI'ACTIF",
+					  "type": "group",
+					  "items": []
+					},
+					{
+					  "name": "VitiTerroir",
+					  "type": "group",
+					  "items": []
+					},					
+					{
+					  "name": "VZER-PAT",
+					  "type": "group",
+					  "items": []
+					}
+			]
+		},
+		{
+          "name": "Loire & Fleuves",
+          "type": "group",
+		  "description": "[Website](https://intelligencedespatrimoines.fr/loire-et-fleuves/)  <p>La richesse patrimoniale des systèmes fluviaux, dans leurs différentes composantes naturelles et socio-culturelles, en font des objets de grande valeur comme l’illustre le fleuve Loire et son inscription au patrimoine mondial de l’Unesco au titre des paysages vivants et évolutifs (2000). Les systèmes fluviaux sont considérés comme des socio-écosystèmes où s’expriment de fortes connections et interactions. Ce milieu naturel, ses processus et son évolution influencent l’organisation des sociétés (ressources, risques, axes de communication…) alors que les activités humaines impactent également les aménagements, l’exploitation des ressources et les usages, ce qui déclenche ou renforce certains dysfonctionnements nuisant à la richesse des milieux et aux sociétés (accroissement du risque).</p><p>Du fait de ces interactions permanentes, l’étude des systèmes fluviaux nécessite la convergence de regards analytiques complémentaires focalisés sur des chaines de processus interconnectés et variés tels que les mécanismes et les modalités de leur équilibre physico-chimique et écologique, les dynamiques paysagères, la mise en place des politiques publiques dédiées ainsi que les usages et pratiques associés à ces milieux. Ainsi, les hydrosystèmes fluviaux doivent être considérés selon un prisme interdisciplinaire reliant Sciences de la Nature et les Sciences humaines et sociales afin d’en comprendre les dynamiques de fonctionnement, les altérations et de dégager des éléments tangibles pour leur résilience, leur restauration, leur gestion durable et l’identification des services écosystémiques intéressant les sociétés.</p>",
+          "items": [
+					{
+					  "name": "ALOSA",
+					  "type": "group",
+					  "items": []
+					},
+					{
+					  "name": "BIOMAREAU II",
+					  "type": "group",
+					  "items": []
+					},
+					{
+					  "name": "COSAL",
+					  "type": "group",
+					  "items": []
+					},
+					{
+					  "name": "FongéLoire",
+					  "type": "group",
+					  "items": []
+					},
+					{
+					  "name": "HOT",
+					  "type": "group",
+					  "items": []
+					},
+					{
+					  "name": "LIFE+ Mulette",
+					  "type": "group",
+					  "items": []
+					},
+					{
+					  "name": "R-TEMUS I",
+					  "type": "group",
+					  "items": []
+					},
+					{
+					  "name": "R-TEMUS II",
+					  "type": "group",
+					  "items": []
+					},
+					{
+					  "name": "TRIO",
+					  "type": "group",
+					  "items": []
+					},
+					{
+					  "name": "Water-Pondi",
+					  "type": "group",
+					  "items": []
+					}
+			]
+		},
+		{
+          "name": "Gastronomie, Santé & Bien-être",
+          "type": "group",
+		  "description": "[Website](https://intelligencedespatrimoines.fr/gastronomie-sante-et-bien-etre/)  <p>Le Chantier Gastronomie, Santé & Bien-être explore l’articulation entre normes gastronomiques, principes diététiques et nutritionnels et enjeux environnementaux et sanitaires, tant dans les mécanismes de compréhension que dans les systèmes de production. Il s’empare de questions au cœur des enjeux actuels de production agro-alimentaire et de consommation. Il s’intéresse notamment à la gestion des sols et de la biodiversité, à la conservation des espèces végétales et des races animales, aux enjeux de durabilité dans les pratiques de production et de consommation, à la pérennité ou l’évolution des représentations socio-culturelles et des comportements alimentaires, etc. Les études pluridisciplinaires du chantier adopteront une perspective de valorisation culturelle et alimentaire. L’expérimentation, avec des cuisiniers, des nutritionnistes, des médecins, des diététiciens, des historiens et des sociologues, des processus d’adaptation des grandes recettes de la cuisine française permettra de les rendre plus conformes aux principes d’une nourriture saine et durable ainsi qu’aux enjeux de politiques publiques de santé tout en maintenant l’attractivité de la cuisine française vis-à-vis des touristes. L’accent sera mis sur l’interaction entre les cultures alimentaires et les systèmes agricoles et alimentaires. L’échelle régionale voire nationale offrira un terrain d’expérimentation accessible qui pourra ensuite être élargi à l’espace européen ou mondial.</p>",
+          "items": [
+					{
+					  "name": "COREMA",
+					  "type": "group",
+					  "items": []
+					},
+					{
+					  "name": "MIRA",
+					  "type": "group",
+					  "items": []
+					},
+					{
+					  "name": "MUSCARI",
+					  "type": "group",
+					  "items": []
+					},
+					{
+					  "name": "NAVIRRE",
+					  "type": "group",
+					  "items": []
+					},
+					{
+					  "name": "OXYFERTI",
+					  "type": "group",
+					  "items": []
+					},
+					{
+					  "name": "PERMACULTURE & BIODIVERSITE",
+					  "type": "group",
+					  "items": []
+					},
+					{
+					  "name": "SERUM",
+					  "type": "group",
+					  "items": []
+					},
+					{
+					  "name": "SWEET",
+					  "type": "group",
+					  "items": []
+					},
+					{
+					  "name": "ValBioDI",
+					  "type": "group",
+					  "items": []
+					},
+					{
+					  "name": "VOCALIM",
+					  "type": "group",
+					  "items": []
+					}	
+			]
+		},
+		{
+          "name": "Monuments , Parcs & Jardins urbains",
+          "type": "group",
+		  "description": "[Website](https://intelligencedespatrimoines.fr/monuments-parcs-et-jardins-urbains/)  <p>La ville constitue un élément clé du patrimoine où s’entrecroise les sociétés d’hier, d’aujourd’hui et de demain dans un environnement dynamique. La gestion et la préservation des patrimoines urbains, qu’ils soient naturels ou culturels, côtoie alors les problématiques sociétales dans leurs dimensions culturelles, territoriales, environnementales, sociales et économiques. En interaction forte avec la gestion et le développement territorial, la dimension patrimoniale des villes ne peut être traitée que de manière interdisciplinaire et intersectorielle.</p><p>Les travaux du Chantier Interdisciplinaire Thématique Monuments, Parcs & Jardins urbains s’inscrivent dans le mouvement actuel effectué par les villes de conception de leur image patrimoniale à partir des mémoires collectives pour répondre à leur propre construction identitaire. Ainsi, par la charge affective et symbolique qu’ils suscitent, des objets, des espaces et des pratiques de la ville deviennent des « monuments » urbains (« Monumentum » signifiant « mémoire ») puisqu’ils sont investis de valeurs et d’une histoire partagées par des communautés mémorielles. Il s’agira donc de s’intéresser au processus de « monumentalisation » des villes comme vecteur de la patrimonialisation urbaine et d’esthétisation des espaces, touchant aussi bien des éléments matériels et immatériels, culturels et naturels, à qui l’on accorde une valeur émotionnelle : bâtiments et constructions plus ou moins anciens, quartiers entiers, parcs ou jardins, arbres exceptionnels, savoirs ou savoir-faire, coutumes, etc. Par l’étude de ce mouvement, l’extension de la notion de patrimoine à des objets très variés sera envisagée en rapport avec les attentes des villes pour leur préservation et leur mise en valeur, tout en tenant compte des risques d’une trop grande muséification qui figerait l’espace.</p><p>À partir des villes de la Région Centre-Val de Loire, le Chantier s’intéressera aux acteurs de cette monumentalisation des espaces urbains, à l’agencement de ces différents monuments/pôles mémoriels et aux nouvelles formes de territorialisation qu’ils induisent. Ce Chantier intègre aussi des perspectives de développement de l’agriculture urbaine et du tourisme patrimonial culturel et naturel bénéfique à la santé et au bien-être. Il s’intéressera aux insectes ravageurs de bâtiments et d’archives, associant ainsi patrimoines naturels et culturels, organismes endémiques et invasifs. La gestion et l’aménagement des parcs urbains (terrestres et aquatiques) et de la ville dans son ensemble seront également abordés, que ce soit en lien avec le plan Ecophyto2018, visant à réduire les produits phytosanitaires, ou les projets de végétalisation des zones urbaines. La dimension sanitaire sera également étudiée à travers la surveillance et le contrôle des organismes nuisibles vecteurs de maladie dans les zones urbaines humides (vectorisation par les moustiques), dans les zones vertes (tiques et maladies à tiques) et dans les infrastructures touristiques (puces de lits dans les hôtels). Le Chantier Monuments, Parcs & Jardins urbains remplira une mission pédagogique pour favoriser la connaissance et la compréhension de ces sujets, lors d’ateliers ou de projets innovants inscrits dans les actions de restauration et de valorisation des monuments (opération St-Martin à Tours) et des jardins historiques (opération jardins Renaissance du château de Montargis). Il pourra s’appuyer sur les démarches citoyennes et les sciences participatives dans une volonté de diffusion de la culture scientifique patrimoniale et de la préservation des patrimoines urbains. Ces actions déboucheront alors sur des retombées touristiques, gastronomiques, sanitaires, économiques et sociologiques bénéfiques aux territoires.</p>",
+          "items": [
+{
+					  "name": "AQAPA",
+					  "type": "group",
+					  "items": []
+					},
+					{
+					  "name": "BioControleTermite",
+					  "type": "group",
+					  "items": []
+					},
+					{
+					  "name": "BUIS",
+					  "type": "group",
+					  "items": []
+					},
+					{
+					  "name": "CArAmBA",
+					  "type": "group",
+					  "items": []
+					},
+					{
+					  "name": "INCA",
+					  "type": "group",
+					  "items": []
+					},
+					{
+					  "name": "LocMem",
+					  "type": "group",
+					  "items": []
+					},
+					{
+					  "name": "Od'SPOT",
+					  "type": "group",
+					  "items": []
+					},
+					{
+					  "name": "PERIURBAINS",
+					  "type": "group",
+					  "items": []
+					},
+					{
+					  "name": "POLLEN",
+					  "type": "group",
+					  "items": []
+					},
+					{
+					  "name": "ReForest",
+					  "type": "group",
+					  "items": []
+					}
+			]
+		}
+	]},
+	{
+      "name": "Projets Internationaux",
+      "type": "group",
+      "items": [
+        {
+          "name": "ALOSA",
+          "type": "group",
+          "items": []
+		},
+        {
+          "name": "COSAL",
+          "type": "group",
+          "items": []
+		},
+        {
+          "name": "InsectProtect",
+          "type": "group",
+          "items": []
+		},
+        {
+          "name": "LIFE+ Mulette",
+          "type": "group",
+          "items": []
+		},
+        {
+          "name": "MIRA",
+          "type": "group",
+          "items": []
+		},
+        {
+          "name": "PERFORMART",
+          "type": "group",
+          "items": []
+		},
+        {
+          "name": "R-TEMUS I",
+          "type": "group",
+          "items": []
+		},
+        {
+          "name": "R-TEMUS II",
+          "type": "group",
+          "items": []
+		},
+        {
+          "name": "TRIO",
+          "type": "group",
+          "items": []
+		},
+        {
+          "name": "Water-Pondi",
+          "type": "group",
+          "items": []
+		}
+	]
+	},
+	{
+      "name": "Projets Nationaux",
+      "type": "group",
+      "items": [
+        {
+          "name": "Alter Frons Mem",
+          "type": "group",
+          "items": []
+		},
+        {
+          "name": "AQAPA",
+          "type": "group",
+          "items": []
+		},
+        {
+          "name": "COREMA",
+          "type": "group",
+          "items": []
+		},
+        {
+          "name": "MUSCARI",
+          "type": "group",
+          "items": []
+		},
+        {
+          "name": "Od'SPOT",
+          "type": "group",
+          "items": []
+		},
+        {
+          "name": "PeriUrbains",
+          "type": "group",
+          "items": []
+		},
+        {
+          "name": "PIND",
+          "type": "group",
+          "items": []
+		},
+        {
+          "name": "SERUM",
+          "type": "group",
+          "items": []
+		},
+        {
+          "name": "SWEET",
+          "type": "group",
+          "items": []
+		},
+        {
+          "name": "VOCALIM",
+          "type": "group",
+          "items": []
+		}
+	]
+	},	
+	{
+      "name": "Projets Régionaux",
+      "type": "group",
+      "items": [
+        {
+          "name": "ACTISARM",
+          "type": "group",
+          "items": []
+		},
+        {
+          "name": "ArchAT",
+          "type": "group",
+          "items": []
+		},
+        {
+          "name": "ARVIVA",
+          "type": "group",
+		  "description": "[Website](https://intelligencedespatrimoines.fr/arviva/)  <p>L’efflorescence de la production artistique en Val de Loire à la fin du Moyen Âge et au début de l’ère moderne a donné lieu récemment à des manifestations culturelles et scientifiques d’importance (exposition « Tours 1500, capitale des arts » au Musée des Beaux-Arts de Tours 2012 ; colloque international Tours 1500, CESR mai 2012). Ces travaux ont mis en évidence le dynamisme des réseaux professionnels et familiaux des cercles de la production artistique et de la commande, plus particulièrement dans les domaines des arts visuels et des arts précieux (peinture, enluminure, vitrail, sculpture, orfèvrerie, tapisserie …). ARVIVA vise à poursuivre la reconstitution de ce tissu humain en le croisant avec celui de la production artistique afin d’étudier toutes les facettes de ce foyer majeur de la première Renaissance.</p>",
+          "items": []
+		},
+        {
+          "name": "GaRom",
+          "type": "group",
+          "items": []
+		},
+        {
+          "name": "IMAGITOUR",
+          "type": "group",
+          "items": []
+		},
+        {
+          "name": "Marmoutier II",
+          "type": "group",
+          "items": []
+		},
+        {
+          "name": "MEMOVIV",
+          "type": "group",
+          "items": []
+		},
+        {
+          "name": "POLLEN",
+          "type": "group",
+          "items": []
+		},
+        {
+          "name": "RECEPTIONS",
+          "type": "group",
+          "items": []
+		},
+        {
+          "name": "ReNom",
+          "type": "group",
+		  "description": "[Website](https://intelligencedespatrimoines.fr/renom-2/)  <p>Le projet ReNom développé par l’équipe des Bibliothèques Virtuelles Humanistes (BVH) du Centre d’études supérieures de la Renaissance, en collaboration avec le Laboratoire d’Informatique Fondamentale et Appliquée de Tours, permet de mettre à disposition du public des outils pour naviguer à partir des noms de personnes et des noms de lieux dans les textes de Rabelais et de Ronsard. ReNom tend avant tout à promouvoir les lieux de la région et de ses environs cités dans les textes de la Renaissance et d’inciter au tourisme littéraire.</p><p></p>L’utilisateur a à sa disposition les textes de référence issus du site des BVH et les informations sur les entités nommées. Par le biais du module de géolocalisation, il peut effectuer des recherches multicritères et naviguer de lieu en lieu. Le téléchargement des textes au format epub permet à l’utilisateur de disposer de ces ressources là où il se trouve.<p>Le site ReNom crée une cartographie interactive permettant aux touristes et aux amateurs de littérature de parcourir les lieux et de se documenter sur les personnages des œuvres de Rabelais et de Ronsard.</p>",
+          "items": [
+					{
+					  "name": "Lieux mentionnés dans ReNom",
+					  "type": "geojson",
+					  "url": "datasets/internes/renom/renom_lieux.geojson",
+					  "description": "Affichage des lieux cités dans les transcriptions d'actes du projet ReNom lorsqu'un balisage geonames était possible.",
+					  "abstract": "Affichage des lieux cités dans les transcriptions d'actes du projet ReNom lorsqu'un balisage geonames était possible.",
+					  "hideSource": "true",
+					  "style": {
+						"marker-size": "16",
+						"stroke-width": "2",
+						"marker-color": "blue",
+						"stroke": "black"
+						}
+					}	
+		  ]
+		},
+        {
+          "name": "RENUMAR",
+          "type": "group",
+		  "description": "[Website](https://intelligencedespatrimoines.fr/renumar-3/)  <p>RENUMAR entend valoriser le patrimoine archivistique de la Renaissance (mi-XVe – mi-XVIIe siècle) conservé en Région Centre-Val de Loire. Le projet repose sur l’établissement, au milieu des années 2000, d’une première base de données (« De minute en minute »), actuellement hébergée sur le site des Bibliothèques Virtuelles Humanistes (BVH) du CESR, qui permettait à un large public d’accéder à des analyses ou à des transcriptions des minutes notariées conservées dans les fonds des Archives Départementales d’Indre-et-Loire. RENUMAR prend appui sur l’héritage précieux de cette base, mais ambitionne de la faire évoluer dans trois nouvelles directions : étendre l’enquête aux différents fonds de la Renaissance conservés dans les dépôts des Archives Départementales et Municipales ; animer, autour de la base de données, des manifestations qui encouragent le public à s’approprier ce patrimoine ; mettre à la disposition des spécialistes, comme des amateurs éclairés, un outil numérique de publication et d’édition collaboratif avec les normes les plus exigeantes de l’édition scientifique. Ce projet est complémentaire des programmes développés au sein d’Intelligence des Patrimoines ARVIVA et RIHVAGE, et du projet régional ECRISA porté par la MSH Val de Loire. Grâce à ces partenariats et à la position du CESR labellisé par la TGIR Huma-Num, RENUMAR pourra aussi participer au réseau international des humanités numériques animé par l’infrastructure européenne Dariah.</p>",
+          "items": [
+						{
+						  "name": "Lieux mentionnés dans RENUMAR",
+						  "type": "geojson",
+						  "url": "datasets/internes/renumar/renumar_lieux.geojson",
+						  "description": "Affichage des lieux cités dans les transcriptions d'actes du projet RENUMAR lorsqu'un balisage geonames était possible.",
+						  "abstract": "Affichage des lieux cités dans les transcriptions d'actes du projet RENUMAR lorsqu'un balisage geonames était possible.",
+						  "hideSource": "true",
+						  "style": {
+							"marker-size": "16",
+							"stroke-width": "2",
+							"marker-color": "red",
+							"stroke": "black"
+							}
+						}	  
+		  ]
+		},
+        {
+          "name": "ReViSMartin",
+          "type": "group",
+          "items": []
+		},
+        {
+          "name": "SaRC",
+          "type": "group",
+          "items": []
+		},
+        {
+          "name": "Sculpture 3D",
+          "type": "group",
+          "items": []
+		},
+        {
+          "name": "Smart Loire",
+          "type": "group",
+          "items": []
+		},
+        {
+          "name": "Volubilis",
+          "type": "group",
+          "items": []
+		}
+	]
+	},
+	{
+      "name": "Projets CESR",
+      "type": "group",
+      "items": [
+        {
+          "name": "Ricercar",
+          "type": "group",
+		  "description": "[Website](http://ricercar.cesr.univ-tours.fr/)  <p>Le programme « Ricercar » est un programme de recherche en musicologie attaché au Centre d'Études Supérieures de la Renaissance de Tours (UMR 7323 du CNRS). Il bénéficie depuis 1992 d'un soutien du Ministère de la culture et du CNRS. Il est composé d'une équipe permanente et de chercheurs associés et articule ses activités autour de 3 pôles :</p><p>• La recherche en musicologie</p><p>• La valorisation du patrimoine musical à la Renaissance à travers les éditions critiques imprimées et numériques</p><p>• La constitution d'un fonds documentaire musical de la Renaissance.</p>",
+          "items": [
+			{
+				"name": "Gesualdo",
+				"type": "group",
+				"description": "[Website](https://ricercar.gesualdo-online.cesr.univ-tours.fr/)  <p>The Gesualdo Online project, developed by the Programme Ricercar at the Centre for Renaissance Studies in Tours, represents an innovative way to conceive and to publish a musical edition. Through the application of new web technologies to musicology, in particular in the domain of “dynamic” editions, the project allows musicologists and editors to re-think traditional editorial praxis.</p><p>The Gesualdo Online Project at the Center for Renaissance Studies invites those in the musicological and musical community interested in Gesualdo’s music to their create their own user account in the project website and to contribute to this online edition.</p>",
+				"dataUrl":"non available",
+				"items": [
+						{
+						  "name": "Lieux de conservation des manuscrits",
+						  "type": "geojson",
+						  "url": "datasets/internes/gesualdo/gesualdo_lieux.geojson",
+						  "description": "Affichage des lieux de conservation des manuscrits.",
+						  "abstract": "Affichage des lieux de conservation des manuscrits.",
+						  "hideSource": "true",
+						  "style": {
+							"marker-size": "40",
+							"marker-symbol": "town-hall",
+							"marker-color": "green"
+							}
+						}	 
+				]
+			}
+		  ]
+		}
+	]
+	},
+	{
+      "name": "Sources de données externes",
+      "type": "group",
+      "items": [
+        {
+          "name": "IGN/BRGM",
+          "type": "group",
+		  "description": "[Website]()  <p></p><p></p>",
+          "items": [
+			{
+			  "layers": "Scan_1000",
+			  "url": "https://ws.sogefi-web.com/wms",
+			  "type": "wms",
+			  "dataCustodian": "[IGN](http://www.ign.fr/)",
+			  "name": "IGN Scan 1000"
+			},					
+			{
+			  "layers": "SCAN_F_GEOL1M",
+			  "url": "http://geoservices.brgm.fr/geologie",
+			  "type": "wms",
+			  "dataCustodian": "[BRGM](http://www.brgm.fr/)",
+			  "name": "BRGM Carte géologique 1/1 000 000 France Métropole"
+			},
+			{
+			  "layers": "SCAN_F_GEOL250",
+			  "url": "http://geoservices.brgm.fr/geologie",
+			  "type": "wms",
+			  "dataCustodian": "[BRGM](http://www.brgm.fr/)",
+			  "name": "BRGM Carte géologique 1/250 000 France Métropole"
+			},
+			{
+			  "layers": "BSS",
+			  "url": "http://geoservices.brgm.fr/geologie",
+			  "type": "wms",
+			  "dataCustodian": "[BRGM](http://www.brgm.fr/)",
+			  "name": "BRGM Banque du sous-sol"
+			},
+			{
+			  "layers": "BGM",
+			  "url": "http://geoservices.brgm.fr/geologie",
+			  "type": "wms",
+			  "dataCustodian": "[BRGM](http://www.brgm.fr/)",
+			  "name": "BRGM Géologie Marine"
+			},
+			{
+			  "layers": "REM_NAPPE_SEDIM",
+			  "url": "http://geoservices.brgm.fr/risques",
+			  "type": "wms",
+			  "dataCustodian": "[BRGM](http://www.brgm.fr/)",
+			  "name": "BRGM Inondations et remontées de nappe (domaine sédimentaire)"
+			},
+			{
+			  "layers": "CAVITE_LOCALISEE",
+			  "url": "http://geoservices.brgm.fr/risques",
+			  "type": "wms",
+			  "dataCustodian": "[BRGM](http://www.brgm.fr/)",
+			  "name": "BRGM Cavités souterraines abandonnées d’origine non minière"
+			}
+		  ]
+		},
+		{
+          "name": "Cartes Historiques",
+          "type": "group",
+		  "description": "[Website]()  <p></p><p></p>",
+          "items": [
+			{
+			  "layers": "Carte_Cassini",
+			  "url": "https://ws.sogefi-web.com/wms",
+			  "type": "wms",
+			  "dataCustodian": "[IGN](http://www.ign.fr/)",
+			  "name": "Carte de Cassini (1815)"
+			},
+			{
+			  "name": "Carte de Cassini: Toponymes",
+			  "type": "geojson",
+			  "url": "",
+			  "description": "Carte de Cassini: Toponymes répertoriés par l'EHESS lors du projet Cassini.",
+			  "abstract": "Carte de Cassini: Toponymes répertoriés par l'EHESS lors du projet Cassini."
+			},
+			{
+			  "layers": "Carte_Capitaine",
+			  "url": "https://ws.sogefi-web.com/wms",
+			  "type": "wms",
+			  "dataCustodian": "[IGN](http://www.ign.fr/)",
+			  "name": "Carte de Capitaine (1790)"
+			},
+			{
+			  "layers": "cem",
+			  "url": "https://ws.sogefi-web.com/wms",
+			  "type": "wms",
+			  "dataCustodian": "[IGN](http://www.ign.fr/)",
+			  "name": "Carte d'Etat Major (1822-1860)"
+			},
+						{
+			  "layers": "Carte_sv",
+			  "url": "https://ws.sogefi-web.com/wms",
+			  "type": "wms",
+			  "dataCustodian": "[IGN](http://www.ign.fr/)",
+			  "name": "Carte du Service Vicinal"
+			}
+		  ]
+		},
+		{
+          "name": "Météofrance (Inspire)",
+          "type": "group",
+		  "description": "[Meteo-France](https://donneespubliques.meteofrance.fr/)  <p></p>Météo-France a mis en place une infrastructure de services web de données géographiques qui permettent de consulter et de télécharger des données géographiques au travers de requêtes adaptées. Les services de consultation sont basés sur le protocole standard WMS, et les services de téléchargement sur le protocole standard WCS.<p></p>",
+          "items": [
+			{
+              "name": "Rainfall (Global, 5km)",
+              "type": "wms",
+              "url": "https://geoservices.meteofrance.fr/api/__y735cpRbGH8j20-vobnczsHa5h7abO6F64_fsNERBY4__/MF-NWP-HIGHRES-AROME-001-FRANCE-WMS?SERVICE=WMS&VERSION=1.3.0&REQUEST=GetCapabilities",
+              "layers": "TEMPERATURE__SPECIFIC_HEIGHT_LEVEL_ABOVE_GROUND",
+              "opacity": 1,
+              "initialTimeSource": "end",
+              "dateFormat": {
+                "currentTime": "mmmm yyyy",
+                "timelineTic": "yyyy"
+              },
+              "ignoreUnknownTileErrors": true,
+              "getFeatureInfoFormats": [
+                {
+                  "type": "none"
+                }
+              ]
+            },
+            {
+              "name": "Rainfall Anomalies (Global, 5km) ",
+              "type": "wms",
+              "url": "http://qld.auscover.org.au/geoserver-rapp/ows",
+              "layers": "global:Monthly Rainfall Anomaly (CHIRPS)",
+              "opacity": 1,
+              "initialTimeSource": "end",
+              "dateFormat": {
+                "currentTime": "mmmm yyyy",
+                "timelineTic": "yyyy"
+              },
+              "ignoreUnknownTileErrors": true,
+              "featureInfoTemplate": {
+                "template": "<table class='cesium-infoBox-defaultTable'><tbody>  <tr>    <td>Rainfall Anomaly</td>    <td>{{Rainfall anomaly [mm per month]}} mm/month</td>  </tr></tbody></table>",
+                "name": "Rainfall Anomaly",
+                "formats": {
+                  "Rainfall anomaly [mm per month]": {
+                    "maximumFractionDigits": 2
+                  }
+                }
+              }
+            },
+			{
+              "name": "Land Cover (GlobCover, 2009)",
+              "type": "wms",
+              "url": "http://qld.auscover.org.au/geoserver-rapp/ows",
+              "layers": "global:GLOBCOVER_L4_200901_200912_V2.3.color._fixed",
+              "opacity": 1,
+              "ignoreUnknownTileErrors": true,
+              "featureInfoTemplate": {
+                "template": "<p style='clear: right'><strong>Classification:</strong> <br/> <span style='white-space: nowrap' class='globcover{{PALETTE_INDEX}}'></span></p>"
+              }
+            }
+		  ]
+		}
+	]
+	}
+ ]
+}
