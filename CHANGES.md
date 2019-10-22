@@ -1,5 +1,8 @@
 Change Log
 ==========
+### 2019-10-22
+
+* Modify sass global file (color scheme, font, etc.) and logo.
 
 ### 2019-10-19
 

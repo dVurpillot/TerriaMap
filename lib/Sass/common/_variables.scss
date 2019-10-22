@@ -1,18 +1,19 @@
 @import url("https://fonts.googleapis.com/css?family=Open+Sans:300,400,500,400italic,600");
 @import url("https://fonts.googleapis.com/css?family=Lato:400,700");
+@import url('https://fonts.googleapis.com/css?family=Fira+Sans&display=swap');
 
-$font-pop: "Open Sans", sans-serif;
-$font-base: "Open Sans", sans-serif;
+$font-pop: "Fira Sans", sans-serif;
+$font-base: "Fira Sans", sans-serif;
 $font-mono: monospace, sans-serif;
 $font-feature-info: $font-mono;
 $font: $font-base;
 
-$color-primary: #519ac2;
-$color-primary-disabled: #595b60;
+$color-primary: #520103;
+$color-primary-disabled: #653f3f;
 @function get-hover-color($base-color) {
   @return lighten($base-color, 10%);
 }
-$color-secondary: #06ccff;
+$color-secondary: #653f3f;
 
 $animation-fast: 0.1s;
 
