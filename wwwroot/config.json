@@ -4,6 +4,8 @@
         "heritages_v2"
     ],
     parameters: {
+		bingMapsKey: "Aii8_zBcKJsUNbbfTpfHwz35VI4ceNjb2i9jUujXnM3pFql7kPgVXU3priSZKM9G",
+		cesiumIonAccessToken : "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJqdGkiOiI0N2VhNTkxNi0yZDA4LTQwMDItOTQyOC03MzNhMzMyNDc3MGMiLCJpZCI6NDQ3LCJpYXQiOjE1MjUyNDQ3OTh9.hU9yZyykqEnRYpltpk2LR-0U_0MRf3UrrN5uaj_LrOo",
         googleUrlShortenerKey: null,
         googleAnalyticsKey: null,
         googleAnalyticsOptions: null,
