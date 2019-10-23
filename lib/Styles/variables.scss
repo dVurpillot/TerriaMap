@@ -1,5 +1,15 @@
 @import "~terriajs/lib/Sass/common/_variables.scss";
 
+$color-primary: #520103;
+$color-secondary: #c11928;
+
+$dark: #653f3f;
+$dark-with-overlay: #db8a8a;
+$dark-lighter: #915a5a;
+
+$font-pop: "Fira Sans", sans-serif;
+$font-base: "Fira Sans", sans-serif;
+
 // To customise the look of your map, uncomment and change values here and in lib/Views/global.scss
 /*
 
@@ -7,7 +17,7 @@
 //$logo-height: 120px;
 
 // If using a non-standard font, remember to include an @import statement in global.scss
-$font-base: 'Fira Sans', sans-serif; 
+$font-base: 'Fira Sans', sans-serif;
 $font-pop: $font-base; // If you just want to use one font throughout, do this.
 
 // These variables are for buttons and text.
